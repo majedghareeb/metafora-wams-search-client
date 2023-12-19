@@ -1,0 +1,19 @@
+{
+    "name": "majedghareeb/metafora-wams-search-client",
+    "description": "Syria TV search client field for gravity forms",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/majedghareeb/etafora-wams-search-client",
+    "authors": [
+        {
+            "name": "Majed Ghareeb",
+            "homepage": "https://www.rakami.net"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=8.0"
+    }
+}
